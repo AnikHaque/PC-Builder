@@ -11,7 +11,6 @@ Our website is designed with user-friendliness in mind. We have a convenient cat
 #### Open [https://pc-builder-final.vercel.app/](https://pc-builder-final.vercel.app/) with your browser to see the result.
 
 But that's not all! PCMART offers an exciting feature called the PC Builder. Here, registered users can take advantage of assembling their dream PC by selecting their preferred components. Whether you're a tech enthusiast or a novice, our PC Builder guides you through the process, ensuring compatibility and optimized performance. To unlock this feature, all you need to do is sign up or log in.
->>>>>>> abeb5d97ed504134ca44f9a50bdbfd653abc8afc
 
 We understand the importance of a personalized computing experience, which is why PCMART prioritizes user engagement and satisfaction. So, join us today and let PCMART be your trusted companion in building the perfect PC that meets your unique needs and preferences.
 
@@ -19,7 +18,6 @@ We understand the importance of a personalized computing experience, which is wh
 #### [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [https://pc-builder-final.vercel.app/api/hello](https://pc-builder-final.vercel.app/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
 Happy shopping and happy building!
->>>>>>> abeb5d97ed504134ca44f9a50bdbfd653abc8afc
 
 
 ## How To Use PCMART - Your Ultimate PC Accessories Destination
