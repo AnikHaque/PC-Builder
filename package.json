@@ -22,7 +22,7 @@
     "cors": "^2.8.5",
     "eslint": "8.45.0",
     "eslint-config-next": "13.4.12",
-    "mongoose": "^7.4.1",
+    "mongoose": "^7.6.7",
     "next": "13.4.12",
     "next-auth": "^4.22.3",
     "next-connect": "^1.0.0",
